@@ -38,7 +38,7 @@ Steps
 
 Clone repo
 
-git clone https://github.com/your-username/virtualAssistant.git
+git clone https://github.com/vaibhavvarshith/virtualAssistant/virtualAssistant.git
 
 cd virtualAssistant
 
@@ -51,7 +51,7 @@ cd ../frontend open index.html
 
 Create a .env file inside backend/:
 
-MONGO_URI=mongodb://127.0.0.1:27017/virtualAssistant PORT=5000 JWT_SECRET=your_secret_key
+MONGO_URL= mongodb://127.0.0.1:27017/virtualAssistant PORT=5000 JWT_SECRET=your_secret_key
 
 🎯 Usage Start MongoDB locally:
 
